@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTriangleRayIntersection" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-08-15T19:27:15" hostname="juatstation" time="0.013">
+  <properties/>
+  <testcase name="testTriangleRayIntersection2()" classname="TestTriangleRayIntersection" time="0.01"/>
+  <testcase name="testTriangleRayParallel()" classname="TestTriangleRayIntersection" time="0.0"/>
+  <testcase name="testTriangleRayEpsilon()" classname="TestTriangleRayIntersection" time="0.0"/>
+  <testcase name="testTriangleRayIntersection()" classname="TestTriangleRayIntersection" time="0.001"/>
+  <system-out><![CDATA[null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

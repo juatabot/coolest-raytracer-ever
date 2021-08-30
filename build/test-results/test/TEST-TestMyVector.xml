@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestMyVector" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-08-15T19:27:15" hostname="juatstation" time="0.007">
+  <properties/>
+  <testcase name="testRandomInUnitDisk()" classname="TestMyVector" time="0.0"/>
+  <testcase name="testAdd()" classname="TestMyVector" time="0.0"/>
+  <testcase name="testDot()" classname="TestMyVector" time="0.001"/>
+  <testcase name="testSub()" classname="TestMyVector" time="0.0"/>
+  <testcase name="testCross()" classname="TestMyVector" time="0.001"/>
+  <testcase name="testUnit()" classname="TestMyVector" time="0.0"/>
+  <testcase name="testDivide()" classname="TestMyVector" time="0.0"/>
+  <testcase name="testMultiply()" classname="TestMyVector" time="0.001"/>
+  <testcase name="testUnitSphere()" classname="TestMyVector" time="0.001"/>
+  <testcase name="testNearZero()" classname="TestMyVector" time="0.0"/>
+  <testcase name="testLength()" classname="TestMyVector" time="0.0"/>
+  <testcase name="testPairMultiply()" classname="TestMyVector" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
